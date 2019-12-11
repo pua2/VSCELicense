@@ -9,7 +9,10 @@ Based on [Dmitrii](https://stackoverflow.com/users/10046552/dmitrii)'s answer to
 ## Usage
 
 1. Download/clone this repository
-2. Import module:
+2. Run Extend-License.bat to extend 31 days.
+
+If batch file does not work or user wants to extend a specific amount, 
+Import module:
 
    ```posh
    Import-Module -Name X:\PATH\TO\VSCELicense
